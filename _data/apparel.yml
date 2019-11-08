@@ -341,6 +341,17 @@ websites:
   keywords:
   - bitpay
   - bip70
+- name: GGnewbie
+  url: https://ggnewbie.com
+  img: GGnewbie.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: gnewbieg
+  facebook: ggnewbieshop
+  email_address: info@ggnewbie.com
+  region: na
+  country: US
 - name: Giacomo Cortes
   url: https://giacomocortes.com/
   img: giacomocortes.png
