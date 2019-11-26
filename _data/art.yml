@@ -136,13 +136,11 @@ websites:
   btc: true
   othercrypto: true
 - name: The Cloud Gallery
-  url: http://thecloudgallery.org/
-  img: thecloudgallery.png
-  email_address: curator@thecloudgallery.org
-  country: AU
-  bch: true
+  url: https://thecloudgallery.org
+  img: TheCloudGallery.png
+  bch: false
   btc: false
-  othercrypto: false
+  othercrypto: true
 - name: The Wall Today
   url: https://thewalltoday.com/en/
   img: thewalltoday.png
