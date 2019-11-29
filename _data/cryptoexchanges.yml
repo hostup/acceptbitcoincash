@@ -620,6 +620,16 @@ websites:
   twitter: bitcoincom
   facebook: buy.bitcoin.news
   email_address: marketing@bitcoin.com
+- name: LocalMonero
+  url: https://localmonero.co
+  img: LocalMonero.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: localmoneroco
+  facebook: localmonero
+  email_address: contact@localmonero.co
+  doc: https://twitter.com/LocalMoneroCo/status/985477174101606401
 - name: Lykke
   url: https://www.lykke.com/
   img: lykke.png
