@@ -19,6 +19,14 @@ websites:
   btc: true
   othercrypto: true
   doc: https://www.abra.com/blog/bitcoin-cash-support/
+- name: AgoraDesk
+  url: https://agoradesk.com
+  img: AgoraDesk.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: agoradesk
+  email_address: admin@agoradesk.com
 - name: ALFAcashier
   url: https://www.alfacashier.com/
   img: alfacashier.png
