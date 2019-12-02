@@ -54,6 +54,17 @@ websites:
   exceptions:
     text: Book your desired rental/hotels, tours, or activities using cryptocurrency
       with this website. Does not currently accept cryptocurrencies for booking flights.
+- name: Booking.com
+  url: https://booking.com
+  img: Bookingcom.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: bookingcom
+  facebook: booking.com
+  doc: https://news.bitcoin.com/travala-partners-with-booking-com-90000-crypto-accepting-destinations-added/
+  exceptions:
+    text: "Booking.com does not accept cryptocurrencies directly, but they have just partnered with Travala.com so that all of booking.com's listings will show up on Travala as well. In this way, any booking.com listing can be paid for with cryptocurrency, because Travala.com allows you to do that for all their listings. This partnership allows booking.com to get into the marketshare of cryptocurrency users."
 - name: British Airways
   url: https://www.britishairways.com/
   twitter: British_Airways
